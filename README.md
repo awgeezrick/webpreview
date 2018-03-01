@@ -13,10 +13,10 @@ Example usage
 import webpreview
 
 # returns a desktop preview of the website [179x320]
-webpreview.desktop("https://www.github.com", filename="image1.jpg")
+webpreview.desktop("https://www.hackerone.com", filename="image1.jpg")
 
 # returns a mobile preview of the website [568x320]
-webpreview.mobile("https://www.github.com", filename="image2.jpg")
+webpreview.mobile("https://www.hackerone.com", filename="image2.jpg")
 ```
 Example preview
 ----
