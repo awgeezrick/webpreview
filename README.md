@@ -5,7 +5,7 @@ Installation
 ----
 *Will make it ```pip``` installable*
 ```bash
-git clone https://github.com/sdushantha/webpreview.git
+$ git clone https://github.com/sdushantha/webpreview.git
 ```
 
 Example usage
