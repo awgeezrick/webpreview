@@ -12,12 +12,21 @@ Example usage
 ```python
 import webpreview
 
-# returns a desktop preview of the website [179x320 pixles]
+# returns a desktop preview of the website [179x320]
 webpreview.desktop("https://www.github.com", filename="image1.jpg")
 
-# returns a mobile preview of the website [568x320 pixles]
+# returns a mobile preview of the website [568x320]
 webpreview.mobile("https://www.github.com", filename="image2.jpg")
 ```
+Example preview
+----
+**Desktop [179x320]**
+
+![img1](https://user-images.githubusercontent.com/27065646/36830391-bf6aa646-1d23-11e8-994f-266bfd75d4e8.jpg "Desktop")
+
+**Mobile [568x320]**
+
+![img2](https://user-images.githubusercontent.com/27065646/36830450-effb5d8c-1d23-11e8-8887-56ce78178ce9.jpg "mobile")
 
 Limititations
 ----
